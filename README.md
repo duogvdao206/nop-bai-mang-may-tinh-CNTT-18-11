@@ -15,9 +15,6 @@ Nhom<số nhóm>_CNTT-18-11.<đuôi file>
 | Loại file | Ví dụ |
 |---|---|
 | File Packet Tracer | `Nhom5_CNTT-18-11.pkt` |
-| Báo cáo Word | `Nhom5_CNTT-18-11.docx` |
-| Báo cáo PDF | `Nhom5_CNTT-18-11.pdf` |
-
 - Chỉ ghi **số nhóm** và **lớp**, không dùng dấu tiếng Việt, không có dấu cách.
 - Mỗi nhóm chỉ cần **một bạn đại diện** nộp bài.
 - Sai quy ước có thể bị yêu cầu nộp lại.
